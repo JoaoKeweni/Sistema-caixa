@@ -34,4 +34,4 @@ Este repositório conterá:
 *(em construção — será atualizado conforme o projeto evoluir)*
 
 ## ✨ Autor
-Projeto desenvolvido pelos estudantes de Sistemas de Informação: **João Keweni Santos Resende**, **Davi dos Santos Cardoso** e **Vinicius** estudante de Sistemas de Informação, com foco em aprendizado prático.
+Projeto desenvolvido pelos estudantes de Sistemas de Informação: **João Keweni Santos Resende**, **Davi dos Santos Cardoso** e **Vinicius**, com foco em aprendizado prático.
