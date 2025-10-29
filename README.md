@@ -1,4 +1,4 @@
-# Sistema de Caixa Simples 💻💰
+# Sistema de Caixa Inicial 💻💰
 
 Este projeto é um sistema de caixa simples, desenvolvido com o objetivo de **aprender o ciclo completo de criação de aplicações Web**, incluindo backend, frontend, banco de dados, deploy e documentação.
 
